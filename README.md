@@ -25,7 +25,7 @@ Three of the speaker groups are from ethnic minorities: The dataset contains rec
 
 The dataset has 9 folders with 67 audio samples each. The audio samples are narrations of a Cinderella passage which can be found [here](http://www.phon.ox.ac.uk/files/apps/IViE/stimuli.php).
 
-I will also upload the zip file for the dataset in the repository.
+[Dataset_Download_Link](http://www.phon.ox.ac.uk/files/apps/IViE/download1.php).
 
 ## Motivation
 The variations in wordings for different dialects has caused many ASR (Automatic Speech Recognition) applications to often fail in recognizing user’s speech. This has encouraged people to find ways to distinguish dialects. Different grammar and word selection in dialects force us to understand how each dialect use phonemes.  
