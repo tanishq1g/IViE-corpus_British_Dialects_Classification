@@ -75,7 +75,7 @@ But instead of analyzing the bare spectrum, we can scale the spectrum to match o
 
 Thus we analyze higher frequencies with a wider range and lower frequencies with a smaller range to catch phoneme based features. 
 
-To convert our power spectrum range from the generic range to a more perceptual range, we use something called as the **Mel scale**. Mel scale normalizes the frequency scale to match our perceptual frequency distinguishing capabilities. This can be seen in the following table. 
+To convert our power spectrum range from the generic range to a more perceptual range, we use something called as the **Mel scale**. Mel scale normalizes the frequency scale to match our perceptual frequency distinguishing capabilities.
 
 We see that an increment of around 240Hz, from 160Hz to 394Hz is equivalent to 250 Mels and the same jump of 250 Mels at higher frequencies is a jump of 5000Hz from 9000Hz to 14000Hz. 
 
