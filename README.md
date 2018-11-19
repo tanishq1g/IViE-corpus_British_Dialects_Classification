@@ -177,7 +177,7 @@ After finding the means, our DataFrame would now be of the size 67x9 rows and 36
 
 We then split the dataset into 80% training data and 20% testing data using sklearn’s train_test_split.
 
-We trained an **SVC classifier** and found the hyper parameters using grid search. The accuracy was around 85-94%. 
+We trained an **SVC classifier** and found the hyper parameters using grid search. The accuracy was around **85-94%**. 
 
 There is a huge variation in accuracy when we retrain the model. This is because our dataset is relatively very small and the random shuffle and split of the dataset using sklearn’s train_test_split causes large variations in our model accuracy.
 
